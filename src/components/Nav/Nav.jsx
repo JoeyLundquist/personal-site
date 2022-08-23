@@ -26,6 +26,10 @@ export const Nav = () => {
             <Link to="/dogs" className='nav-links'>
                 Doggos
             </Link>
+
+            <Link to="/contact-me" className='nav-links'>
+                Contact
+            </Link>
         </div>
     )
 }
