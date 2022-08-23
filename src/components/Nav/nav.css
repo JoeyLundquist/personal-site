@@ -1,0 +1,12 @@
+.nav-bar{
+    background-color: green;
+    width: 95%;
+    height: 5vh;
+    text-align: center;
+    padding: 5vh
+}
+
+.nav-links{
+    margin: 5vh;
+    font-size: 5vh;
+}
