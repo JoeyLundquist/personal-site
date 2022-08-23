@@ -19,12 +19,16 @@ export const Nav = () => {
                 Home
             </Link>
 
-            <Link to="/about-me" className='nav-links'>
+            <Link to="/about" className='nav-links'>
                 About Me
             </Link>
 
-            <Link to="/dogs" className='nav-links'>
-                Doggos
+            <Link to="/projects" className='nav-links'>
+                Projects
+            </Link>
+
+            <Link to="/contact" className='nav-links'>
+                Contact
             </Link>
         </div>
     )
